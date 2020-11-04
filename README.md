@@ -2,7 +2,7 @@
 
 # Deep Learning Models
 
-A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks.
+A collection of various deep learning architectures, models, and tips for both TensorFlow and PyTorch in Jupyter Notebooks.
 
 ## Traditional Machine Learning
 
